@@ -36,6 +36,11 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void)doSomething
+{
+    
+}
+
 /*
 #pragma mark - Navigation
 
